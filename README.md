@@ -1,4 +1,7 @@
 # CFG2CNF
+
+## Convert a Context Free Grammar to Chomsky Normal Form
+
 Python program to convert a Context Free Grammar to Chomsky Normal Form.
 
 ---------
