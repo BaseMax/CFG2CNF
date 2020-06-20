@@ -4,6 +4,10 @@
 
 Python program to convert a Context Free Grammar to Chomsky Normal Form.
 
+### References
+
+![Context Free Grammar Book](book.jpg)
+
 ---------
 
 # Max Base
