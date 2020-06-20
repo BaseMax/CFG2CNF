@@ -58,6 +58,18 @@ Follow this way by reading following **book**.
 
 If you find a problem or bugs in program, please send **Issue** or **PR**, i'm a new member in this study...
 
+### Automata Videos
+
+Learn in some videos:
+
+- https://www.youtube.com/watch?v=5_tfVe7ED3g
+- https://stackoverflow.com/questions/3510109/how-can-i-determine-if-a-language-is-context-free-or-not#:~:text=First%2C%20you%20should%20attempt%20to,the%20language%20is%20context-free
+- https://www.youtube.com/watch?v=mlXYQ8ug2v4&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev&index=77
+- https://www.youtube.com/watch?v=Mh-UQVmAxnw&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev&index=78
+- https://www.youtube.com/watch?v=FNPSlnj3Vt0&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev&index=79
+- https://www.youtube.com/watch?v=ZCbJan6CGNM&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev&index=80
+- ...
+
 ---------
 
 # Max Base
