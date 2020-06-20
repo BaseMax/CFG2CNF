@@ -12,6 +12,14 @@ I read 6 chapters of the book and the result of my study was writing this progra
 
 An Introduction to Formal Languages and Automata **by Peter Linz**
 
+#### What is Chomsky Normal Form
+
+https://en.wikipedia.org/wiki/Chomsky_normal_form
+
+### What is Context Free Grammar
+
+https://en.wikipedia.org/wiki/Context-free_grammar
+
 ### Using
 
 ```
