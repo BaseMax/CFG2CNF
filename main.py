@@ -1,6 +1,7 @@
 # Author: Max Base
 # Date: 2020/06/17
 # Web: maxbase.org
+# Repo: https://github.com/BaseMax/CFG2CNF
 import sys
 print("Enter your grammers with `S -> ab` similar style, Also you can split grammers by | and even write grammers in diffrent lines\nand finaly type *:")
 moves={}
