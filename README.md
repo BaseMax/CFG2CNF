@@ -70,7 +70,7 @@ Learn in some videos:
 - https://www.youtube.com/watch?v=ZCbJan6CGNM&list=PLBlnK6fEyqRgp46KUv4ZY69yXmpwKOIev&index=80
 - ...
 
-Thanks to Khalilian for providing these videos...
+Thanks to Khalilian for providing these videos and the great help he did.
 
 ---------
 
