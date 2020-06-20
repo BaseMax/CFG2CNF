@@ -1,5 +1,7 @@
 # CFG2CNF
 
+Python tool able to convert a Context Free Grammar in Chomsky Normal Form
+
 ## Convert a Context Free Grammar to Chomsky Normal Form
 
 Python program to convert a Context Free Grammar to Chomsky Normal Form.
@@ -13,6 +15,8 @@ I read 7 chapters of the book and the result of my study was writing this progra
 An Introduction to Formal Languages and Automata **by Peter Linz**
 
 #### What is Chomsky Normal Form
+
+Chomsky Normal Form is a context-free grammar that has been put into a specific format. It was developed by Noam Chomsky in 1978 and is part of formal language theory.
 
 https://en.wikipedia.org/wiki/Chomsky_normal_form
 
