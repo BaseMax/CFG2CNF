@@ -4,7 +4,7 @@
 
 Python program to convert a Context Free Grammar to Chomsky Normal Form.
 
-I read 6 chapters of the book and the result of my study was writing this program.
+I read 7 chapters of the book and the result of my study was writing this program.
 
 ### References: Formal Languages and Automata
 
