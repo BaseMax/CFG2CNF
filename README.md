@@ -46,6 +46,10 @@ The image below will change your think of the Automata:
 
 Sure, We are need this subject all of the day, Also programming languages!
 
+Follow this way by reading following **book**.
+
+If you find a problem or bugs in program, please send **Issue** or **PR**, i'm a new member in this study...
+
 ---------
 
 # Max Base
