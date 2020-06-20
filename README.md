@@ -10,6 +10,32 @@ I read 6 chapters of the book and the result of my study was writing this progra
 
 ![Context Free Grammar Book](book.jpg)
 
+### Using
+
+```
+git clone https://github.com/BaseMax/CFG2CNF
+cd CFG2CNF
+python main.py
+```
+
+### Input
+
+```
+S -> SaB | aB
+B -> bB | $
+*
+```
+
+The above grammar is equivalent to the following grammar:
+
+```
+S -> SaB
+S -> aB
+B -> bB
+B -> $
+*
+```
+
 ---------
 
 # Max Base
