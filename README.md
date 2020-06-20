@@ -38,6 +38,14 @@ B -> $
 *
 ```
 
+## Automata is useful?
+
+The image below will change your think of the Automata:
+
+![Grammer sample image](grammer.jpg)
+
+Sure, We are need this subject all of the day, Also programming languages!
+
 ---------
 
 # Max Base
