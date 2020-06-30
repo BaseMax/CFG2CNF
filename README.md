@@ -76,6 +76,8 @@ Learn in some videos:
 
 Thanks to Khalilian for providing these videos and the great help he did.
 
+Good for start to check [Mini Calculator Interpreter](https://github.com/BaseMax/MiniCalculatorInterpreter) project.
+
 ---------
 
 # Max Base
